@@ -1,6 +1,6 @@
-# 📊 Sales Analytics Dashboard using Microsoft Fabric & Power BI
+#  Sales Analytics Dashboard using Microsoft Fabric & Power BI
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is an end-to-end **Sales Analytics Dashboard** developed using **Microsoft Fabric** and **Power BI** to transform raw sales data into actionable business insights.
 The solution follows a modern analytics workflow where sales data is **ingested, transformed, modelled, and visualized** using Microsoft Fabric before being consumed in an interactive Power BI report. By leveraging **OneLake**, a **Semantic Model**, and Power BI, the dashboard provides a centralized and scalable analytics solution for business reporting.
